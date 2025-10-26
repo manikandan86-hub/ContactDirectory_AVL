@@ -39,16 +39,16 @@ report.pdf → Optional project report
 ### Using MinGW on Windows (Command Prompt)
 1. Make sure **MinGW** is installed and added to your system PATH.  
 2. Open **Command Prompt** in your project folder:
-```bash
-cd path\to\ContactDirectory_AVL
+
+    cd path\to\ContactDirectory_AVL
 
 3. Compile the program:
 
-g++ main.cpp -o ContactDirectory
+   g++ main.cpp -o ContactDirectory
 
 4. Run the program:
 
-ContactDirectory
+   ContactDirectory
 
  ## How It Works
 
