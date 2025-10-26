@@ -1,8 +1,14 @@
-# 📞 Contact Directory using AVL Tree (C++)
+# Contact Directory
+Mini Project: Contact Directory using AVL Tree (C++)
+##
 
-Authors:Manikandan RS, Prakash G
+
+Authors:Manikandan RS,Prakash G
+
 Language: C++
+
 SDG Link: SDG 9--Industry,Innovation and Infrastructure
+
  
  ---
 
@@ -29,9 +35,13 @@ Contacts are stored in **sorted order by name**, and the tree remains **balanced
 ## Project Structure
 ContactDirectory_AVL/
 │
+
 ├── main.cpp → Source code (C++)
+
 ├── contacts.csv → Sample dataset
+
 ├── README.md → Project overview
+
 └── report.pdf → Optional project report
 
 ---
@@ -41,12 +51,16 @@ ContactDirectory_AVL/
 ### Using MinGW on Windows (Command Prompt)
 1. Make sure **MinGW** is installed and added to your system PATH.  
 2. Open **Command Prompt** in your project folder:
-```bash
-cd path\to\ContactDirectory_AVL
+
+   cd path\to\ContactDirectory_AVL
+   
 3. Compile the program:
-g++ main.cpp -o ContactDirectory
+ 
+   g++ main.cpp -o ContactDirectory
+   
 4. Run the program:
-ContactDirectory
+
+   ContactDirectory
 
 ---
  
@@ -62,5 +76,7 @@ ContactDirectory
 
 ## GitHub / Submission
 1.Create a new repository on GitHub (e.g., ContactDirectory_AVL.)
+
 2.Upload the project folder or the ZIP provided.
+
 3.Add a short description and commit.
